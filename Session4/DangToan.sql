@@ -73,5 +73,9 @@ UPDATE Book
 SET publish_year = 2023
 WHERE  publish_year >= 2021;
 
-DELETE Borrow,
-WHERE
+DELETE FROM Borrow
+WHERE borrow_date < '2024-09-18';
+
+SELECT * FROM Reader;
+SELECT * FROM Book;
+SELECT * FROM Borrow;
