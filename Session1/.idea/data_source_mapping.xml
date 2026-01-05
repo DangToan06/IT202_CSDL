@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/13b46cd5-e6ee-4a54-aa56-7b2280715a4a/console.sql" value="13b46cd5-e6ee-4a54-aa56-7b2280715a4a" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/1bb848b0-2ae8-4439-8df9-7176c4ca0c1a/console.sql" value="1bb848b0-2ae8-4439-8df9-7176c4ca0c1a" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/7d5d11a7-6866-40c0-8d9d-4da26ce2ce49/console.sql" value="7d5d11a7-6866-40c0-8d9d-4da26ce2ce49" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/c29dbaa4-5f9b-4dfa-9dd8-20ffa1e4bd79/console.sql" value="c29dbaa4-5f9b-4dfa-9dd8-20ffa1e4bd79" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/c29dbaa4-5f9b-4dfa-9dd8-20ffa1e4bd79/console_1.sql" value="c29dbaa4-5f9b-4dfa-9dd8-20ffa1e4bd79" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/d3356216-cdf5-4889-8355-59e9ce990af0/console.sql" value="d3356216-cdf5-4889-8355-59e9ce990af0" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/debf1202-c380-4e87-a31b-433bb89d7019/console.sql" value="debf1202-c380-4e87-a31b-433bb89d7019" />
-    <file url="file://$PROJECT_DIR$/../../../DevPTIT/typ-training-2025/toandq_b24dtcn161_tranning_gd1/Week5/ss5_bai1.sql" value="c29dbaa4-5f9b-4dfa-9dd8-20ffa1e4bd79" />
     <file url="file://$PROJECT_DIR$/../Session3/Ex01_ss3.sql" value="c29dbaa4-5f9b-4dfa-9dd8-20ffa1e4bd79" />
   </component>
 </project>

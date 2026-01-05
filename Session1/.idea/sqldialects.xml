@@ -2,12 +2,6 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/../../../DevPTIT/typ-training-2025/toandq_b24dtcn161_tranning_gd1/Week5/managerEmp.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/../../../DevPTIT/typ-training-2025/toandq_b24dtcn161_tranning_gd1/Week5/ss5_bai1.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/../../../DevPTIT/typ-training-2025/toandq_b24dtcn161_tranning_gd1/Week5/ss5_bai2.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/../../../DevPTIT/typ-training-2025/toandq_b24dtcn161_tranning_gd1/Week5/ss5_bai3.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/../../../DevPTIT/typ-training-2025/toandq_b24dtcn161_tranning_gd1/Week5/ss5_bai4.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/../../../DevPTIT/typ-training-2025/toandq_b24dtcn161_tranning_gd1/Week5/ss5_bai5.sql" dialect="MySQL" />
-    <file url="file://$PROJECT_DIR$/../../../DevPTIT/typ-training-2025/toandq_b24dtcn161_tranning_gd1/Week5/ss5_bai6.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../Session2/DemoSS2.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../Session2/bai1_ss2.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../Session2/bai2_ss2.sql" dialect="MySQL" />
@@ -23,5 +17,10 @@
     <file url="file://$PROJECT_DIR$/../Session3/Ex06_ss3.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../Session4/DangToan.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/../Session4/miniPj.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../Session6/ss6_bai1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../Session6/ss6_bai2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../Session6/ss6_bai3.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../Session6/ss6_bai4.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/../Session6/ss6_bai5.sql" dialect="MySQL" />
   </component>
 </project>
