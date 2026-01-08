@@ -121,14 +121,10 @@ HAVING total_booking >= 2;
 
 # Tìm loại phòng có số lượt đặt phòng nhiều nhất
 
-select
-    r.room_type,
-    count(b.booking_id) as booking_count
-from
-    bookings b
-    join rooms r on r.room_id = b.room_id
-group by
-    r.room_type
-order by
-    booking_count desc
+select r.room_type,
+       count(b.booking_id) as booking_count
+from bookings b
+         join rooms r on r.room_id = b.room_id
+group by r.room_type
+order by booking_count desc
 limit 1;
