@@ -163,13 +163,12 @@ CALL GetTopScoreStudent('C00001');
 
 CREATE VIEW View_IT_Enrollment_DB
 AS
-    SELECT S.FullName, S.DeptID, C.CourseName , E.Score
+    SELECT S.StudentID,  S.FullName, S.DeptID, C.CourseName , E.Score
     FROM Enrollment E
     JOIN Course C on E.CourseID = C.CourseID
     JOIN Student S on S.StudentID = E.StudentID
     WHERE S.DeptID = 'IT' AND C.CourseID = 'C00001'
 WITH CHECK OPTION;
-
 
 # b)Viết Stored Procedure UpdateScore_IT_DB
 # Tham số:
@@ -207,3 +206,4 @@ call UpdateScore_IT_DB('S00001', @newScore);
 select @newScore;
 
 select * from View_IT_Enrollment_DB;
+
